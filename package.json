@@ -1,5 +1,5 @@
 {
-	"name": "phosphor-css",
+	"name": "@ringgitplus/phosphor-css",
 	"version": "3.1.0",
 	"description": "🧩 CSS integration of a flexible icon family for the web.",
 	"files": [
@@ -20,7 +20,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/lucagoslar/phosphor-css.git"
+		"url": "git+https://github.com/zaki-hanafiah/phosphor-css"
 	},
 	"keywords": [
 		"phosphor",
@@ -31,7 +31,7 @@
 		"less",
 		"scss"
 	],
-	"author": "Luca Goslar <47827429+lucagoslar@users.noreply.github.com>",
+	"author": "Luca Goslar <47827429+lucagoslar@users.noreply.github.com>, Zaki Hanafiah <47827429+zaki-hanafiah@users.noreply.github.com>",
 	"devDependencies": {
 		"@changesets/cli": "^2.27.1",
 		"@types/csso": "^5.0.4",
